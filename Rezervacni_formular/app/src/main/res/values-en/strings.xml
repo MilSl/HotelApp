@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reservation form</string>
+    <string name="company_name">XY hotel reservation form</string>
+    <string name="name_surname">Name and Surname</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="mail">E-mail</string>
+    <string name="start_date">Choose date of stay start:</string>
+    <string name="day_count">Choose count of stay days</string>
+    <string name="send">SEND</string>
+    <string name="cancel">CANCEL</string>
+</resources>

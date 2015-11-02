@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HotelApp</string>
+    <string name="company_name">Rezervační formulář hotelu XY</string>
+    <string name="name_surname">Jméno a příjmení</string>
+    <string name="address">Adresa</string>
+    <string name="phone">Telefon</string>
+    <string name="mail">E-mail</string>
+    <string name="start_date">Vyberte datum počátku pobytu:</string>
+    <string name="day_count">Vyberte počet dní pobytu:</string>
+    <string name="send">ODESLAT</string>
+    <string name="cancel">ZRUŠIT</string>
+    <string name="title_activity_sluzby">SluzbyActivity</string>
+</resources>
